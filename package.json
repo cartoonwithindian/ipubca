@@ -1,0 +1,21 @@
+{
+  "name": "ipubca-backend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Appwrite backend for the BCA PYQ & Public Answer Sharing Platform",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "setup": "node scripts/setup.js",
+    "deploy": "node scripts/deploy-functions.js",
+    "verify": "node scripts/verify.js",
+    "seed:sample": "node scripts/seed-sample.js",
+    "test": "node --test tests/*.test.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-appwrite": "^31.1.0"
+  }
+}

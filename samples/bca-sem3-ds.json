@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "1.0",
+  "course": { "name": "BCA", "code": "BCA" },
+  "semester": 3,
+  "subject": { "name": "Data Structures using C", "code": "BCA211" },
+  "questions": [
+    { "id": "DS-2024-001", "year": 2024, "unit": 1, "topic": "Arrays and Linked Lists", "questionNumber": "1(a)", "questionText": "Write a C program to insert a node at the beginning of a singly linked list.", "questionType": "long", "marks": 10 },
+    { "id": "DS-2023-002", "year": 2023, "unit": 2, "topic": "Stacks", "questionNumber": "2", "questionText": "Convert the infix expression A+B*C-(D/E)^F into postfix notation.", "questionType": "short", "marks": 6, "metadata": { "difficulty": "medium" } },
+    { "id": "DS-2022-003", "year": 2022, "unit": 3, "topic": "Trees", "questionNumber": "3(b)", "questionText": "Define binary search tree. Explain its traversal techniques.", "questionType": "long", "marks": 8 }
+  ]
+}

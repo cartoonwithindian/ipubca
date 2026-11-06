@@ -1,0 +1,13 @@
+{
+  "schemaVersion": "1.0",
+  "course": { "name": "BCA", "code": "BCA" },
+  "semester": 3,
+  "subject": { "name": "Computer Organization and Architecture", "code": "BCA209" },
+  "questions": [
+    { "id": "COA-2024-001", "year": 2024, "unit": 1, "topic": "Boolean Algebra", "questionNumber": "1(a)", "questionText": "Explain Boolean Algebra and its laws.", "questionType": "long", "marks": 10 },
+    { "id": "COA-2024-002", "year": 2024, "unit": 1, "topic": "Boolean Algebra", "questionNumber": "1(b)", "questionText": "Simplify the expression A'BC + AB'C + ABC' + ABC using Boolean laws.", "questionType": "short", "marks": 6 },
+    { "id": "COA-2024-003", "year": 2023, "unit": 2, "topic": "CPU Structure", "questionNumber": "2", "questionText": "With a neat diagram, explain the Von Neumann architecture.", "questionType": "long", "marks": 10 },
+    { "id": "COA-2023-004", "year": 2023, "unit": 3, "topic": "Memory Hierarchy", "questionNumber": "3(a)", "questionText": "Define cache memory. Explain mapping techniques.", "questionType": "long", "marks": 8 },
+    { "id": "COA-2022-005", "year": 2022, "unit": 4, "questionNumber": "4", "questionText": "What is instruction pipelining? List its hazards.", "questionType": "short", "marks": 5 }
+  ]
+}
